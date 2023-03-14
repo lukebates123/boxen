@@ -6,7 +6,7 @@
 : ${USE_SUDO:="true"}
 : ${VERIFY_CHECKSUM:="false"}
 : ${BIN_INSTALL_DIR:="/usr/local/bin"}
-: ${REPO_NAME:="carlmontanari/boxen"}
+: ${REPO_NAME:="lukebates123/boxen"}
 : ${REPO_URL:="https://github.com/$REPO_NAME"}
 
 # detectArch discovers the architecture for this system.
